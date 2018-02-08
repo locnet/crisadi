@@ -1,0 +1,41 @@
+/* 
+    Created on : 10.01.2015, 14:39:19
+    Author     : DFD
+	Styles for : Filter by category dropdown
+*/
+/* Filter by category dropdown */
+
+.woocommerce-ordering {
+	.abs();
+	top: 0;
+	right: 40px;
+	float: right;
+	width: 31.4%;
+	padding-left: 10px;
+	.dk-select {
+		width: auto;
+		float: right;
+		.dk-selected {
+			font-size: @default-text-font-size - 1;
+			.rel();
+			.block();
+			line-height: 36px;
+			height: 38px;
+			padding: 0 80px 0 15px;
+			color: @title-color;
+			border: 1px solid @border-color;
+			-webkit-transition: -webkit-border-radius .3s ease;
+			-moz-transition: -moz-border-radius .3s ease;
+			-o-transition: -o-border-radius .3s ease;
+			-ms-transition: -ms-border-radius .3s ease;
+			transition: -webkit-border-radius .3s ease, border-radius .3s ease;
+			&:before {
+				width: 7px;
+				margin-top: -1px;
+			}
+		}
+		.dk-select-options {
+			overflow: visible;
+		}
+	}
+}
