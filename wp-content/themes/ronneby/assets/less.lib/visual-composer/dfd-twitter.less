@@ -1,0 +1,133 @@
+/* 
+    Created on : 09.02.2015, 16:28:29
+    Author     : DFD
+	Styles for : Twitter module
+*/
+.dfd-twitter-module {
+	margin: 0 -10px;
+	.tweet-item {
+		.tweet {
+			padding: 0 10px;
+			.tweet-content {
+				margin-bottom: 10px;
+				a {
+					.link-style();
+					.link-decoration();
+					&:before {
+						margin-top: 0;
+						top: auto;
+						bottom: 0;
+						.transition(bottom .3s ease);
+					}
+					&:hover {
+						&:before {
+							bottom: -3px;
+						}
+					}
+				}
+			}
+		}
+		.icon-module-twitt {
+			color: #5eaade;
+			font-size: 30px;
+		}
+	}
+	&.icon-style-1,
+	&.icon-style-4,
+	&.icon-style-5 {
+		.icon-module-twitt {
+			.abs();
+		}
+	}
+	&.icon-style-4,
+	&.icon-style-5 {
+		.tweet-item {
+			.rel(); 
+		}
+	}
+	&.icon-style-1 {
+		.tweet-item .icon-module-twitt {
+			color: @border-color;
+			z-index: -1;
+		}
+		.tweet {
+			color: @border-color;
+		}
+	}
+	&.icon-style-2 {
+		.tweet-content {
+			margin-top: 5px;
+		}
+	}
+	&.icon-style-3 {
+		.subtitle {
+			margin-bottom: 10px;
+		}
+	}
+	&.icon-style-4 {
+		.icon-module-twitt {
+			width: 50px;
+			left: 0;
+			top: 0;
+		}
+		.tweet-item {
+			&:not(.without-icon) {
+				.tweet {
+					padding-left: 50px;
+				}
+			}
+		}
+	}
+	&.icon-style-5 {
+		.icon-module-twitt {
+			width: 50px;
+			right: 0;
+			top: 0;
+			text-align: right;
+		}
+		.tweet-item {
+			&:not(.without-icon) {
+				.tweet {
+					padding-right: 50px;
+				}
+			}
+		}	
+	}
+	&.icon-style-6 {
+		.icon-module-twitt {
+			padding-left: 10px;
+			vertical-align: middle;
+		}
+	}
+	&.icon-style-7 {
+		.icon-module-twitt {
+			padding-right: 10px;
+			vertical-align: middle;
+		}
+	}
+	&.dfd-dots-enabled {
+		.rel();
+		padding-bottom: 50px;
+	}
+	.dfd-slick-dots {
+		.abs();
+		bottom: 0;
+		list-style: none;
+		text-align: center;
+		margin-bottom: 0;
+		width: 100%;
+		z-index: 2;
+		li {
+			.rel();
+			.inline-block();
+			line-height: 1;
+			margin: 0 10px;
+			.box-shadow(none);
+			.opacity(1);
+			span {
+				.block();
+				cursor: pointer;
+			}
+		}
+	}
+}

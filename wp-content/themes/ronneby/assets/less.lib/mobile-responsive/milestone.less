@@ -1,0 +1,112 @@
+/* 
+    Created on : 26.08.2017, 12:29:50
+    Author     : DFD
+	Styles for : Responsive Milestone shortcode
+*/
+
+@media (min-width: @screen-medium) and (max-width: @screen-normal - 1) {
+	.dfd-milestone-wrap {
+		.quarter-width-elements > * {
+			width: 50%;
+		}
+		&.style-1 {
+			.quarter-width-elements {
+				.dfd-milestone-item {
+					padding-top: 40px;
+					&:first-child,
+					&:nth-child(2) {
+						padding-top: 0;
+					}
+				}
+			}
+			&:not(.side-delimeter) {
+				.quarter-width-elements {
+					.dfd-milestone-item {
+						&:nth-child(even) {
+							.icon-wrap:after {
+								.hide();
+							}
+						}
+						&:nth-child(odd) {
+							.icon-wrap:before {
+								.hide();
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen
+and (min-width : @screen-medium) {
+	.dfd-milestone-wrap {
+		&.style-1 {
+			.quarter-width-elements {
+				.dfd-milestone-item {
+					padding-top: 40px;
+					&:nth-child(-n+4) {
+						padding-top: 0;
+					}
+				}
+			}
+			.one-third-width-elements {
+				.dfd-milestone-item {
+					padding-top: 40px;
+					&:nth-child(-n+3) {
+						padding-top: 0;
+					}
+				}
+			}
+			.half-size-elements {
+				.dfd-milestone-item {
+					padding-top: 40px;
+					&:nth-child(-n+2) {
+						padding-top: 0;
+					}
+				}
+			}
+			.full-width-elements {
+				.dfd-milestone-item {
+					padding-top: 40px;
+					&:first-child {
+						padding-top: 0;
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen
+and (max-width : @screen-medium - 1) {
+	.dfd-milestone-wrap {
+		&.style-1 {
+			.dfd-milestone-item {
+				-webkit-box-sizing: border-box;
+				-moz-box-sizing: border-box;
+				box-sizing: border-box;
+				padding-bottom: 40px;
+				&:last-child {
+					padding-bottom: 0;
+				}
+			}
+			.quarter-width-elements,
+			.one-third-width-elements,
+			.half-size-elements,
+			.full-width-elements {
+				.dfd-milestone-item {
+					padding-top: 0;
+				}
+			}
+		}
+	}
+	.dfd-milestone-wrap.side-delimeter.style-1 .dfd-milestone-item:last-child .icon-wrap:after,
+	.dfd-milestone-wrap.side-delimeter.style-1 .dfd-milestone-item:first-child .icon-wrap:before,
+	.dfd-milestone-wrap.style-1 .icon-wrap:before,
+	.dfd-milestone-wrap.style-1 .icon-wrap:after {
+		.hide();
+	}
+}
+
