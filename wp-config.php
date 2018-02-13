@@ -89,3 +89,4 @@ if ( !defined('ABSPATH') )
 require_once(ABSPATH . 'wp-settings.php');
 // trebuie stearsa linia asta in productie
 define('FS_METHOD', 'direct');
+

@@ -3,17 +3,18 @@ msgstr ""
 "Project-Id-Version: Ronneby\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-07 09:28+0300\n"
-"PO-Revision-Date: 2016-04-07 09:28+0300\n"
+"PO-Revision-Date: 2018-02-13 11:48+0100\n"
 "Last-Translator: \n"
 "Language-Team: DFDevelopment <dynamicframeworks@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.2\n"
+"X-Generator: Poedit 1.8.7.1\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_x;__\n"
 "X-Poedit-Basepath: ../../.\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+"Language: pt\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: ronneby/inc/user_form/assets/css/jquery-ui-1.11.4.custom/jquery-ui.min.js:6
@@ -65,8 +66,7 @@ msgstr ""
 
 #: ronneby/comments.php:109
 #, php-format
-msgid ""
-"Logged in as <a href=\"%s/wp-admin/profile.php\" class=\"box-name\">%s</a>."
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\" class=\"box-name\">%s</a>."
 msgstr ""
 
 #: ronneby/comments.php:110
@@ -472,7 +472,7 @@ msgstr ""
 #: ronneby/redux_framework/ReduxCore/inc/fields/spacing/field_spacing.php:191
 #: ronneby/templates/loop-blog.php:122 ronneby/templates/loop-folio.php:193
 msgid "All"
-msgstr ""
+msgstr "Todos"
 
 #: ronneby/inc/components.php:780 ronneby/inc/components.php:801
 msgid "Category&#0146;s icon"
@@ -1687,9 +1687,7 @@ msgstr ""
 #: ronneby/inc/custom_metabox/gallery-boxes.php:291
 #: ronneby/inc/custom_metabox/gallery-boxes.php:542
 #: ronneby/inc/custom_metabox/portfolio-boxes.php:916
-msgid ""
-"This field requirest Page subtitle options to be specified for portfolio "
-"items to show subtitle correctly"
+msgid "This field requirest Page subtitle options to be specified for portfolio items to show subtitle correctly"
 msgstr ""
 
 #: ronneby/inc/custom_metabox/gallery-boxes.php:301
@@ -2893,10 +2891,7 @@ msgid "oEmbed video"
 msgstr ""
 
 #: ronneby/inc/custom_metabox/portfolio-boxes.php:226
-msgid ""
-"Enter a Youtube, Vimeo, Twitter, or Instagram URL. Supports services listed "
-"at <a href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
-"Embeds</a>."
+msgid "Enter a Youtube, Vimeo, Twitter, or Instagram URL. Supports services listed at <a href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/Embeds</a>."
 msgstr ""
 
 #: ronneby/inc/custom_metabox/portfolio-boxes.php:243
@@ -3175,9 +3170,7 @@ msgstr ""
 
 #: ronneby/inc/custom_metabox/portfolio-boxes.php:955
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:5147
-msgid ""
-"This field requirest Button URL options to be specified for portfolio items "
-"to show subtitle correctly"
+msgid "This field requirest Button URL options to be specified for portfolio items to show subtitle correctly"
 msgstr ""
 
 #: ronneby/inc/custom_metabox/portfolio-boxes.php:967
@@ -3360,14 +3353,11 @@ msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:442
 #, php-format
-msgid ""
-"You're about to delete the '%s' theme. 'Cancel' to stop, 'OK' to update."
+msgid "You're about to delete the '%s' theme. 'Cancel' to stop, 'OK' to update."
 msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:445
-msgid ""
-"Updating this theme will lose any customizations you have made. 'Cancel' to "
-"stop, 'OK' to update."
+msgid "Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update."
 msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:461
@@ -3412,10 +3402,7 @@ msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:524
 #, php-format
-msgid ""
-"The template files are located in <code>%2$s</code>. The stylesheet files "
-"are located in <code>%3$s</code>. <strong>%4$s</strong> uses templates from "
-"<strong>%5$s</strong>. Changes made to the templates will affect both themes."
+msgid "The template files are located in <code>%2$s</code>. The stylesheet files are located in <code>%3$s</code>. <strong>%4$s</strong> uses templates from <strong>%5$s</strong>. Changes made to the templates will affect both themes."
 msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:526
@@ -3429,32 +3416,22 @@ msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:538
 #, php-format
-msgid ""
-"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox "
-"thickbox-preview\" title=\"%1$s\">View version %3$s details</a>."
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox thickbox-preview\" title=\"%1$s\">View version %3$s details</a>."
 msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:540
 #, php-format
-msgid ""
-"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox "
-"thickbox-preview\" title=\"%1$s\">View version %3$s details</a> or <a href="
-"\"%4$s\" %5$s>update automatically</a>."
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox thickbox-preview\" title=\"%1$s\">View version %3$s details</a> or <a href=\"%4$s\" %5$s>update automatically</a>."
 msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:544
 #, php-format
-msgid ""
-"%1$s has not been installed. <a href=\"%2$s\" class=\"thickbox thickbox-"
-"preview\" title=\"%1$s\">View version %3$s details</a>."
+msgid "%1$s has not been installed. <a href=\"%2$s\" class=\"thickbox thickbox-preview\" title=\"%1$s\">View version %3$s details</a>."
 msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:546
 #, php-format
-msgid ""
-"%1$s has not been installed. <a href=\"%2$s\" class=\"thickbox thickbox-"
-"preview\" title=\"%1$s\">View version %3$s details</a> or <a href=\"%4$s"
-"\">install automatically</a>."
+msgid "%1$s has not been installed. <a href=\"%2$s\" class=\"thickbox thickbox-preview\" title=\"%1$s\">View version %3$s details</a> or <a href=\"%4$s\">install automatically</a>."
 msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:586
@@ -3490,39 +3467,21 @@ msgid "Skip Theme Backup"
 msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:738
-msgid ""
-"To obtain your API Key, visit your \"My Settings\" page on any of the Envato "
-"Marketplaces. Once a valid connection has been made any changes to the API "
-"key below for this username will not effect the results for 5 minutes "
-"because they're cached in the database. If you have already made an API "
-"connection and just purchase a theme and it's not showing up, wait five "
-"minutes and refresh the page. If the theme is still not showing up, it's "
-"possible the author has not made it available for auto install yet."
+msgid "To obtain your API Key, visit your \"My Settings\" page on any of the Envato Marketplaces. Once a valid connection has been made any changes to the API key below for this username will not effect the results for 5 minutes because they're cached in the database. If you have already made an API connection and just purchase a theme and it's not showing up, wait five minutes and refresh the page. If the theme is still not showing up, it's possible the author has not made it available for auto install yet."
 msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:776
-msgid ""
-"This plugin will automatically save your theme as a ZIP archive before it "
-"does an upgrade. The directory those backups get saved to is <code>wp-"
-"content/envato-backups</code>. However, if you're experiencing problems "
-"while attempting to upgrade, it's likely to be a permissions issue and you "
-"may want to manually backup your theme before upgrading. Alternatively, if "
-"you don't want to backup your theme you can check the box below."
+msgid "This plugin will automatically save your theme as a ZIP archive before it does an upgrade. The directory those backups get saved to is <code>wp-content/envato-backups</code>. However, if you're experiencing problems while attempting to upgrade, it's likely to be a permissions issue and you may want to manually backup your theme before upgrading. Alternatively, if you don't want to backup your theme you can check the box below."
 msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:802
 #, php-format
-msgid ""
-"This option lets you deactivate the %s class, so it does not load. If you "
-"want to update the plugin in the future, just uncheck this option and the "
-"plugin will look for a new version on Github; check it and it stops looking."
+msgid "This option lets you deactivate the %s class, so it does not load. If you want to update the plugin in the future, just uncheck this option and the plugin will look for a new version on Github; check it and it stops looking."
 msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:826
 #, php-format
-msgid ""
-"To enable theme update notifications, please enter your Envato Marketplace "
-"credentials in the %s"
+msgid "To enable theme update notifications, please enter your Envato Marketplace credentials in the %s"
 msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:860
@@ -3554,9 +3513,7 @@ msgid "You do not have sufficient permissions to delete themes for this site."
 msgstr ""
 
 #: ronneby/inc/envato-wordpress-toolkit-master/index.php:1060
-msgid ""
-"This .htaccess file ensures that other people cannot download your backup "
-"files."
+msgid "This .htaccess file ensures that other people cannot download your backup files."
 msgstr ""
 
 #: ronneby/inc/icons/icons.php:150
@@ -3730,9 +3687,7 @@ msgstr ""
 
 #: ronneby/inc/lib/plugin-activation.php:1490
 #, php-format
-msgid ""
-"No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</"
-"a>"
+msgid "No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
 msgstr ""
 
 #: ronneby/inc/lib/plugin-activation.php:1506
@@ -3798,9 +3753,7 @@ msgid "The installation of %1$s failed."
 msgstr ""
 
 #: ronneby/inc/lib/plugin-activation.php:2243
-msgid ""
-"The installation and activation process is starting. This process may take a "
-"while on some hosts, so please be patient."
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
 msgstr ""
 
 #: ronneby/inc/lib/plugin-activation.php:2244
@@ -3826,9 +3779,7 @@ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
 msgstr ""
 
 #: ronneby/inc/lib/plugin-activation.php:2250
-msgid ""
-"The installation process is starting. This process may take a while on some "
-"hosts, so please be patient."
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
 msgstr ""
 
 #: ronneby/inc/lib/plugin-activation.php:2252
@@ -3940,9 +3891,7 @@ msgid "Description"
 msgstr ""
 
 #: ronneby/inc/menu/edit_mega_menu_walker.php:224
-msgid ""
-"The description will be displayed in the menu if the current theme supports "
-"it."
+msgid "The description will be displayed in the menu if the current theme supports it."
 msgstr ""
 
 #: ronneby/inc/menu/edit_mega_menu_walker.php:230
@@ -4253,7 +4202,7 @@ msgstr ""
 #: ronneby/tmp-portfolio-template-3excerpt.php:133
 #: ronneby/tmp-portfolio-template-4excerpt.php:134
 msgid "More"
-msgstr ""
+msgstr "Mas"
 
 #: ronneby/inc/post-type.php:4
 msgid "Portfolios"
@@ -4337,15 +4286,12 @@ msgstr ""
 
 #: ronneby/inc/post-type.php:42
 #, php-format
-msgid ""
-"Portfolio submitted. <a target=\"_blank\" href=\"%s\">Preview product</a>"
+msgid "Portfolio submitted. <a target=\"_blank\" href=\"%s\">Preview product</a>"
 msgstr ""
 
 #: ronneby/inc/post-type.php:43
 #, php-format
-msgid ""
-"Portfolio scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
-"\"%2$s\">Preview product</a>"
+msgid "Portfolio scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview product</a>"
 msgstr ""
 
 #: ronneby/inc/post-type.php:43 ronneby/inc/post-type.php:159
@@ -4355,8 +4301,7 @@ msgstr ""
 
 #: ronneby/inc/post-type.php:44
 #, php-format
-msgid ""
-"Portfolio draft updated. <a target=\"_blank\" href=\"%s\">Preview product</a>"
+msgid "Portfolio draft updated. <a target=\"_blank\" href=\"%s\">Preview product</a>"
 msgstr ""
 
 #: ronneby/inc/post-type.php:69 ronneby/inc/post-type.php:79
@@ -4507,15 +4452,12 @@ msgstr ""
 
 #: ronneby/inc/post-type.php:159
 #, php-format
-msgid ""
-"Gallery scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
-"\"%2$s\">Preview gallery</a>"
+msgid "Gallery scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview gallery</a>"
 msgstr ""
 
 #: ronneby/inc/post-type.php:160
 #, php-format
-msgid ""
-"Gallery draft updated. <a target=\"_blank\" href=\"%s\">Preview gallery</a>"
+msgid "Gallery draft updated. <a target=\"_blank\" href=\"%s\">Preview gallery</a>"
 msgstr ""
 
 #: ronneby/inc/post-type.php:185 ronneby/inc/post-type.php:195
@@ -4624,15 +4566,12 @@ msgstr ""
 
 #: ronneby/inc/post-type.php:249
 #, php-format
-msgid ""
-"Author scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
-"\">Preview author</a>"
+msgid "Author scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview author</a>"
 msgstr ""
 
 #: ronneby/inc/post-type.php:250
 #, php-format
-msgid ""
-"Author draft updated. <a target=\"_blank\" href=\"%s\">Preview Author</a>"
+msgid "Author draft updated. <a target=\"_blank\" href=\"%s\">Preview Author</a>"
 msgstr ""
 
 #: ronneby/inc/preloader.php:68
@@ -5120,9 +5059,7 @@ msgid "Use reCaptcha"
 msgstr ""
 
 #: ronneby/inc/user_form/user_form_manager.php:583
-msgid ""
-"Get recaptcha in <a target='blank' href='https://www.google.com/recaptcha/"
-"intro/index.html'>google.com/recaptcha</a>"
+msgid "Get recaptcha in <a target='blank' href='https://www.google.com/recaptcha/intro/index.html'>google.com/recaptcha</a>"
 msgstr ""
 
 #: ronneby/inc/user_form/user_form_manager.php:590
@@ -5171,10 +5108,7 @@ msgid "Ultimate Addon Settings"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/admin/modules.php:99
-msgid ""
-"This theme provides Ultimate Addons for Visual Composer plugin as theme "
-"part. You don't need to install plugin or update it. You will get updates "
-"together with theme updates."
+msgid "This theme provides Ultimate Addons for Visual Composer plugin as theme part. You don't need to install plugin or update it. You will get updates together with theme updates."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Animation.php:55
@@ -5277,9 +5211,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Animation.php:107
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Image_Separator.php:77
-msgid ""
-"The animation effect will repeat to the count you enter above. Enter 0 if "
-"you want to repeat it infinitely."
+msgid "The animation effect will repeat to the count you enter above. Enter 0 if you want to repeat it infinitely."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Animation.php:112
@@ -5287,9 +5219,7 @@ msgid "Hide Elements Until Delay"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Animation.php:119
-msgid ""
-"If set to yes, the elements inside block will stay hidden until animation "
-"starts (depends on delay settings above)."
+msgid "If set to yes, the elements inside block will stay hidden until animation starts (depends on delay settings above)."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Animation.php:129
@@ -5444,9 +5374,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_team_box.php:132
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_testimonials.php:81
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_tour.php:336
-msgid ""
-"If you wish to style particular content element differently, then use this "
-"field to add a class name and then refer to it in your css file."
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Buttons.php:238
@@ -5840,10 +5768,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_List_Icon.php:122
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd-icon-list-module.php:352
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd-new-subscribe-module.php:200
-msgid ""
-"Click and select icon of your choice. If you can't find the one that suits "
-"for your purpose, you can <a href='admin.php?page=font-icon-Manager' "
-"target='_blank'>add new here</a>."
+msgid "Click and select icon of your choice. If you can't find the one that suits for your purpose, you can <a href='admin.php?page=font-icon-Manager' target='_blank'>add new here</a>."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Buttons.php:468
@@ -8096,9 +8021,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Just_Icon.php:225
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_List_Icon.php:243
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_facts_module.php:242
-msgid ""
-"Ran out of options? Need more styles? Write your own CSS and mention the "
-"class name here."
+msgid "Ran out of options? Need more styles? Write your own CSS and mention the class name here."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Dual_Button.php:754
@@ -8133,9 +8056,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Icons.php:206
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Info_Box.php:624
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Just_Icon.php:182
-msgid ""
-"Add a custom link or select existing page. You can remove existing link as "
-"well."
+msgid "Add a custom link or select existing page. You can remove existing link as well."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Dual_Button.php:777
@@ -8185,9 +8106,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Info_Circle.php:702
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Stats_Counter.php:50
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Swatch_Book.php:324
-msgid ""
-"Click and select icon of your choice. If you can't find the one that suits "
-"for your purpose"
+msgid "Click and select icon of your choice. If you can't find the one that suits for your purpose"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Dual_Button.php:822
@@ -8392,9 +8311,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_List_Icon.php:154
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Modals.php:469
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_facts_module.php:162
-msgid ""
-"We have given three quick preset if you are in a hurry. Otherwise, create "
-"your own with various options."
+msgid "We have given three quick preset if you are in a hurry. Otherwise, create your own with various options."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Dual_Button.php:901
@@ -8551,9 +8468,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_List_Icon.php:213
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Modals.php:527
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_facts_module.php:221
-msgid ""
-"0 pixel value will create a square border. As you increase the value, the "
-"shape convert in circle slowly. (e.g 500 pixels)."
+msgid "0 pixel value will create a square border. As you increase the value, the shape convert in circle slowly. (e.g 500 pixels)."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Dual_Button.php:986
@@ -8609,8 +8524,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_List_Icon.php:225
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Modals.php:539
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_facts_module.php:233
-msgid ""
-"Spacing from center of the icon till the boundary of border / background"
+msgid "Spacing from center of the icon till the boundary of border / background"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Dual_Button.php:1001
@@ -9072,11 +8986,7 @@ msgid "Maximum Full Width"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Expandable_section.php:822
-msgid ""
-"By default, the section will be given to the Visual Composer row. However, "
-"in some cases depending on your theme's CSS - it may not fit well to the "
-"container you are wishing it would. In that case you will have to select the "
-"appropriate value here that gets you desired output.."
+msgid "By default, the section will be given to the Visual Composer row. However, in some cases depending on your theme's CSS - it may not fit well to the container you are wishing it would. In that case you will have to select the appropriate value here that gets you desired output.."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Expandable_section.php:823
@@ -9290,9 +9200,7 @@ msgid "Back Delay"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Fancy_Text.php:115
-msgid ""
-"Example - If set to 5000, the string will remain visible for 5 seconds "
-"before backspace effect."
+msgid "Example - If set to 5000, the string will remain visible for 5 seconds before backspace effect."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Fancy_Text.php:119
@@ -9613,9 +9521,7 @@ msgid "Use an existing font icon or upload a custom image."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Flip_Box.php:130
-msgid ""
-"Click and select icon of your choice. If you can't find the one that suits "
-"for your purpose, you can"
+msgid "Click and select icon of your choice. If you can't find the one that suits for your purpose, you can"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Flip_Box.php:183
@@ -9820,9 +9726,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Interactive_Banner_2.php:115
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Interactive_Banners.php:180
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Stats_Counter.php:320
-msgid ""
-"Add extra class name that will be applied to the icon process, and you can "
-"use this class for your customizations."
+msgid "Add extra class name that will be applied to the icon process, and you can use this class for your customizations."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Flip_Box.php:487
@@ -10088,9 +9992,7 @@ msgid "Map Marker Locations"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Google_Maps.php:334
-msgid ""
-"Please enter the the list of locations you would like. <br/> Divide values "
-"with linebreaks (Enter). Example: <br/> Our Location <br/> Our Location #2"
+msgid "Please enter the the list of locations you would like. <br/> Divide values with linebreaks (Enter). Example: <br/> Our Location <br/> Our Location #2"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Google_Maps.php:338
@@ -10736,8 +10638,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Headings.php:211
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Headings.php:210
-msgid ""
-"<h4>Enter values with respective unites. Example - 10px, 10em, 10%, etc.</h4>"
+msgid "<h4>Enter values with respective unites. Example - 10px, 10em, 10%, etc.</h4>"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Headings.php:230
@@ -10934,11 +10835,7 @@ msgid "Width Override"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Hightlight_Box.php:319
-msgid ""
-"By default, the map will be given to the Visual Composer row. However, in "
-"some cases depending on your theme's CSS - it may not fit well to the "
-"container you are wishing it would. In that case you will have to select the "
-"appropriate value here that gets you desired output.."
+msgid "By default, the map will be given to the Visual Composer row. However, in some cases depending on your theme's CSS - it may not fit well to the container you are wishing it would. In that case you will have to select the appropriate value here that gets you desired output.."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Hightlight_Box.php:323
@@ -11141,10 +11038,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Icons.php:73
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Icons.php:73
-msgid ""
-"Click and select icon of your choice. If you can't find the one that suits "
-"for your purpose, you can <a href=\"admin.php?page=font-icon-Manager\" "
-"target=\"_blank\">add new here</a>."
+msgid "Click and select icon of your choice. If you can't find the one that suits for your purpose, you can <a href=\"admin.php?page=font-icon-Manager\" target=\"_blank\">add new here</a>."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Icons.php:91
@@ -11211,9 +11105,7 @@ msgid "Gutter"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Image_Separator.php:119
-msgid ""
-"50% is default. Increase to push the image outside or decrease to pull the "
-"image inside."
+msgid "50% is default. Increase to push the image outside or decrease to pull the image inside."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Info_Banner.php:23
@@ -11389,7 +11281,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Info_Box.php:54
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Info_Box.php:54
-msgid "Read More"
+msgid "Read more"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Info_Box.php:366
@@ -11621,9 +11513,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Info_Box.php:719
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Info_Box.php:719
-msgid ""
-"Select icon position. Icon box style will be changed according to the icon "
-"position."
+msgid "Select icon position. Icon box style will be changed according to the icon position."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Info_Box.php:724
@@ -11668,9 +11558,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Info_Box.php:781
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Info_Box.php:781
-msgid ""
-"Add extra class name that will be applied to the icon box, and you can use "
-"this class for your customizations."
+msgid "Add extra class name that will be applied to the icon box, and you can use this class for your customizations."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Info_Box.php:849
@@ -11812,8 +11700,7 @@ msgid "Autoplay Time"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Info_Circle.php:496
-msgid ""
-"Duration before info circle should display next information on thumbnails."
+msgid "Duration before info circle should display next information on thumbnails."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Info_Circle.php:502
@@ -12064,9 +11951,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_services_module.php:611
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Info_List.php:373
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_services_module.php:611
-msgid ""
-"Add extra class name that will be applied to the info list, and you can use "
-"this class for your customizations."
+msgid "Add extra class name that will be applied to the info list, and you can use this class for your customizations."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Info_List.php:393
@@ -12085,9 +11970,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Info_List.php:419
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Just_Icon.php:38
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Modals.php:404
-msgid ""
-"Use <a href='admin.php?page=font-icon-Manager' target='_blank'>existing font "
-"icon</a> or upload a custom image."
+msgid "Use <a href='admin.php?page=font-icon-Manager' target='_blank'>existing font icon</a> or upload a custom image."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Info_List.php:424
@@ -12174,8 +12057,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Interactive_Banner_2.php:237
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Interactive_Banner_2.php:250
-msgid ""
-"Enter value between 0.0 to 1 (0 is maximum transparency, while 1 is lowest)"
+msgid "Enter value between 0.0 to 1 (0 is maximum transparency, while 1 is lowest)"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Interactive_Banner_2.php:243
@@ -12183,9 +12065,7 @@ msgid "Image Opacity on Hover"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Interactive_Banner_2.php:259
-msgid ""
-"If the description text is not suiting well on specific screen sizes, you "
-"may enable this option - which will hide the description text."
+msgid "If the description text is not suiting well on specific screen sizes, you may enable this option - which will hide the description text."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Interactive_Banner_2.php:265
@@ -12194,9 +12074,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Interactive_Banner_2.php:272
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Interactive_Banner_2.php:285
-msgid ""
-"Provide the range of screen size where you would like to hide the "
-"description text."
+msgid "Provide the range of screen size where you would like to hide the description text."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Interactive_Banner_2.php:278
@@ -12258,10 +12136,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Interactive_Banners.php:71
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Modals.php:412
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Modals.php:412
-msgid ""
-"Click and select icon of your choice. If you can't find the one that suits "
-"for your purpose, you can <a href='admin.php?page=AIO_Icon_Manager' "
-"target='_blank'>add new here</a>."
+msgid "Click and select icon of your choice. If you can't find the one that suits for your purpose, you can <a href='admin.php?page=AIO_Icon_Manager' target='_blank'>add new here</a>."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Interactive_Banners.php:85
@@ -12748,9 +12623,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Modals.php:1071
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Modals.php:1071
-msgid ""
-"Add extra class name that will be applied to the modal popup, and you can "
-"use this class for your customizations."
+msgid "Add extra class name that will be applied to the modal popup, and you can use this class for your customizations."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:449
@@ -12762,9 +12635,7 @@ msgid "Gradient Color"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:451
-msgid ""
-"Image / Parallax (parallax is not available for One Page scroll page "
-"template)"
+msgid "Image / Parallax (parallax is not available for One Page scroll page template)"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:452
@@ -12780,11 +12651,7 @@ msgid "Animated Background"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:457
-msgid ""
-"Select the kind of background would you like to set for this row. Not sure? "
-"See Narrated <a href='https://www.youtube.com/watch?v=Qxs8R-"
-"uaMWk&list=PL1kzJGWGPrW981u5caHy6Kc9I1bG1POOx' target='_blank'>Video "
-"Tutorials</a>"
+msgid "Select the kind of background would you like to set for this row. Not sure? See Narrated <a href='https://www.youtube.com/watch?v=Qxs8R-uaMWk&list=PL1kzJGWGPrW981u5caHy6Kc9I1bG1POOx' target='_blank'>Video Tutorials</a>"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:482
@@ -12808,9 +12675,7 @@ msgid "Gradient Type"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:498
-msgid ""
-"At least two color points should be selected. <a href=\"https://www.youtube."
-"com/watch?v=yE1M4AKwS44\" target=\"_blank\">Video Tutorial</a>"
+msgid "At least two color points should be selected. <a href=\"https://www.youtube.com/watch?v=yE1M4AKwS44\" target=\"_blank\">Video Tutorial</a>"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:516
@@ -12875,17 +12740,11 @@ msgid "Upload or select background images from media gallery."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:585
-msgid ""
-"Options to control repeatation of the background image. Learn on <a "
-"href='http://www.w3schools.com/cssref/playit.asp?filename=playcss_background-"
-"repeat' target='_blank'>W3School</a>"
+msgid "Options to control repeatation of the background image. Learn on <a href='http://www.w3schools.com/cssref/playit.asp?filename=playcss_background-repeat' target='_blank'>W3School</a>"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:601
-msgid ""
-"Options to control size of the background image. Learn on <a href='http://"
-"www.w3schools.com/cssref/playit.asp?filename=playcss_background-"
-"size&preval=50%25' target='_blank'>W3School</a>"
+msgid "Options to control size of the background image. Learn on <a href='http://www.w3schools.com/cssref/playit.asp?filename=playcss_background-size&preval=50%25' target='_blank'>W3School</a>"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:609
@@ -12893,9 +12752,7 @@ msgid "Custom Background Image Size"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:612
-msgid ""
-"You can use initial, inherit or any number with px, em, %, etc. Example- "
-"100px 100px"
+msgid "You can use initial, inherit or any number with px, em, %, etc. Example- 100px 100px"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:620
@@ -12915,9 +12772,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:626
 #: ronneby/inc/vc_custom/dfd_vc_background/admin_templates/image.php:93
-msgid ""
-"Options to set whether a background image is fixed or scroll with the rest "
-"of the page."
+msgid "Options to set whether a background image is fixed or scroll with the rest of the page."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:634
@@ -12991,10 +12846,7 @@ msgid "Link to the video in WebM / Ogg Format"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:717
-msgid ""
-"IE, Chrome & Safari <a href='http://www.w3schools.com/html/html5_video.asp' "
-"target='_blank'>support</a> MP4 format, while Firefox & Opera prefer WebM / "
-"Ogg formats. You can upload the video through <a href='"
+msgid "IE, Chrome & Safari <a href='http://www.w3schools.com/html/html5_video.asp' target='_blank'>support</a> MP4 format, while Firefox & Opera prefer WebM / Ogg formats. You can upload the video through <a href='"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:725
@@ -13002,9 +12854,7 @@ msgid "Enter YouTube URL of the Video"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:728
-msgid ""
-"Enter YouTube url. Example - YouTube (https://www.youtube.com/watch?"
-"v=tSqJIIcxKZM) "
+msgid "Enter YouTube url. Example - YouTube (https://www.youtube.com/watch?v=tSqJIIcxKZM) "
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:736
@@ -13028,9 +12878,7 @@ msgid "Placeholder Image"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:753
-msgid ""
-"Placeholder image is displayed in case background videos are restricted (Ex "
-"- on iOS devices)."
+msgid "Placeholder image is displayed in case background videos are restricted (Ex - on iOS devices)."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:761
@@ -13051,9 +12899,7 @@ msgid "Play video only when in viewport"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:796
-msgid ""
-"Video will be played only when user is on the particular screen position. "
-"Once user scroll away, the video will pause."
+msgid "Video will be played only when user is on the particular screen position. Once user scroll away, the video will pause."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:804
@@ -13080,11 +12926,7 @@ msgid "Browser Full Dimension"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:851
-msgid ""
-"By default, the background will be given to the Visual Composer row. "
-"However, in some cases depending on your theme's CSS - it may not fit well "
-"to the container you are wishing it would. In that case you will have to "
-"select the appropriate value here that gets you desired output.."
+msgid "By default, the background will be given to the Visual Composer row. However, in some cases depending on your theme's CSS - it may not fit well to the container you are wishing it would. In that case you will have to select the appropriate value here that gets you desired output.."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:879
@@ -13104,15 +12946,11 @@ msgid "Fade Effect on Scroll"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:923
-msgid ""
-"If enabled, the the content inside row will fade out slowly as user scrolls "
-"down."
+msgid "If enabled, the the content inside row will fade out slowly as user scrolls down."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:935
-msgid ""
-"The area of screen from top where fade out effect will take effect once the "
-"row is completely inside that area."
+msgid "The area of screen from top where fade out effect will take effect once the row is completely inside that area."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:960
@@ -13138,9 +12976,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:1017
 #: ronneby/inc/vc_custom/dfd_vc_background/dfd_vc_bg.php:173
-msgid ""
-"Enter value between 0 to 100 (0 is maximum transparency, while 100 is "
-"minimum)"
+msgid "Enter value between 0 to 100 (0 is maximum transparency, while 100 is minimum)"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:1024
@@ -13245,9 +13081,7 @@ msgid "<i class=\"dashicons dashicons-desktop\"></i> Desktop"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:1463
-msgid ""
-"<i class=\"dashicons dashicons-tablet\" style=\"transform: rotate(90deg);"
-"\"></i> Tablet"
+msgid "<i class=\"dashicons dashicons-tablet\" style=\"transform: rotate(90deg);\"></i> Tablet"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:1481
@@ -13259,9 +13093,7 @@ msgid "<i class=\"dashicons dashicons-smartphone\"></i> Mobile"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:1517
-msgid ""
-"<i class=\"dashicons dashicons-smartphone\" style=\"transform: rotate(90deg);"
-"\"></i> Mobile Landscape"
+msgid "<i class=\"dashicons dashicons-smartphone\" style=\"transform: rotate(90deg);\"></i> Mobile Landscape"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Parallax.php:1652
@@ -13451,9 +13283,7 @@ msgid "Counter Value"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Stats_Counter.php:239
-msgid ""
-"Enter number for counter without any special character. You may enter a "
-"decimal number. Eg 12.76"
+msgid "Enter number for counter without any special character. You may enter a decimal number. Eg 12.76"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Stats_Counter.php:244
@@ -13469,9 +13299,7 @@ msgid "Replace Decimal Point With"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Stats_Counter.php:255
-msgid ""
-"Did you enter a decimal number (Eg - 12.76) The decimal point  will be "
-"replaced with value that you will enter above."
+msgid "Did you enter a decimal number (Eg - 12.76) The decimal point  will be replaced with value that you will enter above."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Stats_Counter.php:260
@@ -13543,9 +13371,7 @@ msgid "Index of Center Strip"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Swatch_Book.php:71
-msgid ""
-"The index of the “centered” item, the one that will have an angle of 0 "
-"degrees when the swatch book is opened"
+msgid "The index of the “centered” item, the one that will have an angle of 0 degrees when the swatch book is opened"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Swatch_Book.php:78
@@ -13972,9 +13798,7 @@ msgid "Height of Divider Border."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_iHover.php:764
-msgid ""
-"Add Space Between Title, Divider and Description. Just put only numbers in "
-"textbox. All values will consider in px."
+msgid "Add Space Between Title, Divider and Description. Just put only numbers in textbox. All values will consider in px."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_iHover.php:770
@@ -14116,9 +13940,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/crum-team-member.php:143
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/crum-testimonials-slider.php:87
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_heading_module.php:66
-msgid ""
-"Style particular content element differently - add a class name and refer to "
-"it in custom CSS."
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/crum-info-box.php:316
@@ -14323,9 +14145,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd-subscribe-module.php:40
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd-subscribe-module.php:40
-msgid ""
-"Read more how to setup <a href=\"https://support.google.com/feedburner/"
-"answer/78978\" target=\"_blank\">Adding FeedBurner Email</a>"
+msgid "Read more how to setup <a href=\"https://support.google.com/feedburner/answer/78978\" target=\"_blank\">Adding FeedBurner Email</a>"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd-subscribe-module.php:44
@@ -14388,8 +14208,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_accordion.php:88
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_accordion.php:72
-msgid ""
-"Select auto rotate for accordion in seconds (Note: disabled by default)."
+msgid "Select auto rotate for accordion in seconds (Note: disabled by default)."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_accordion.php:94
@@ -14417,9 +14236,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_accordion.php:88
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_tabs.php:275
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_tour.php:190
-msgid ""
-"Enter active section number (Note: to have all sections closed on initial "
-"load enter non-existing number)."
+msgid "Enter active section number (Note: to have all sections closed on initial load enter non-existing number)."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_accordion.php:121
@@ -15117,10 +14934,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_facts_module.php:105
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_facts_module.php:105
-msgid ""
-"Click and select icon of your choice. If you can&apos;t find the one that "
-"suits for your purpose, you can <a href=\"admin.php?page=font-icon-Manager\" "
-"target=\"_blank\">add new here</a>."
+msgid "Click and select icon of your choice. If you can&apos;t find the one that suits for your purpose, you can <a href=\"admin.php?page=font-icon-Manager\" target=\"_blank\">add new here</a>."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_facts_module.php:247
@@ -15424,9 +15238,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_news_carousel.php:516
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_news_carousel.php:516
-msgid ""
-"Please select number of slides to be show in top part of module. Available "
-"values from 2 to 4 slides"
+msgid "Please select number of slides to be show in top part of module. Available values from 2 to 4 slides"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_news_carousel.php:524
@@ -15436,9 +15248,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_news_carousel.php:526
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_news_carousel.php:526
-msgid ""
-"Please select number of slides to be show in bottom part of module. "
-"Available values from 3 to 5 slides"
+msgid "Please select number of slides to be show in bottom part of module. Available values from 3 to 5 slides"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_news_carousel.php:541
@@ -15661,9 +15471,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_scrolling_effect.php:29
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_scrolling_effect.php:29
-msgid ""
-"Upload the image. Please make sure that allow_url_fopen is enabled on your "
-"server/hosting for correct work of this module"
+msgid "Upload the image. Please make sure that allow_url_fopen is enabled on your server/hosting for correct work of this module"
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_scrolling_effect.php:34
@@ -15708,17 +15516,12 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_services_module.php:654
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_services_module.php:654
-msgid ""
-"Use <a href=\"admin.php?page=font-icon-Manager\" target=\"_blank\">existing "
-"font icon</a> or upload a custom image."
+msgid "Use <a href=\"admin.php?page=font-icon-Manager\" target=\"_blank\">existing font icon</a> or upload a custom image."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_services_module.php:662
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_services_module.php:662
-msgid ""
-"Click and select icon of your choice. If you cannot find the one that suits "
-"for your purpose, you can <a href=\"admin.php?page=font-icon-Manager\" "
-"target=\"_blank\">add new here</a>."
+msgid "Click and select icon of your choice. If you cannot find the one that suits for your purpose, you can <a href=\"admin.php?page=font-icon-Manager\" target=\"_blank\">add new here</a>."
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_services_module.php:717
@@ -16485,9 +16288,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_twitter.php:26
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_twitter.php:26
-msgid ""
-"Please make sure that you have all necessary options filled in Twitter "
-"options section of <a href=\""
+msgid "Please make sure that you have all necessary options filled in Twitter options section of <a href=\""
 msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_twitter.php:130
@@ -16944,9 +16745,7 @@ msgid "Number of columns for wide container"
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_addons.php:763
-msgid ""
-"Number of columns if container width more then 1280. Enter value between 1 "
-"to 8"
+msgid "Number of columns if container width more then 1280. Enter value between 1 to 8"
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_addons.php:768
@@ -16954,9 +16753,7 @@ msgid "Number of columns for normal container"
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_addons.php:773
-msgid ""
-"Number of columns if container width more then 1024 and less then 1280. "
-"Enter value between 1 to 8"
+msgid "Number of columns if container width more then 1024 and less then 1280. Enter value between 1 to 8"
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_addons.php:778
@@ -16964,9 +16761,7 @@ msgid "Number of columns for medium container"
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_addons.php:783
-msgid ""
-"Number of columns if container width more then 800 and less then 1024. Enter "
-"value between 1 to 8"
+msgid "Number of columns if container width more then 800 and less then 1024. Enter value between 1 to 8"
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_addons.php:788
@@ -16974,9 +16769,7 @@ msgid "Number of columns for small container"
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_addons.php:793
-msgid ""
-"Number of columns if container width more then 460 and less then 800. Enter "
-"value between 1 to 8"
+msgid "Number of columns if container width more then 460 and less then 800. Enter value between 1 to 8"
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_addons.php:798
@@ -16984,9 +16777,7 @@ msgid "Number of columns for smartphones"
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_addons.php:803
-msgid ""
-"Number of columns if container width less then 460. Enter value between 1 to "
-"8"
+msgid "Number of columns if container width less then 460. Enter value between 1 to 8"
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_addons.php:816
@@ -17404,18 +17195,12 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_background/admin_templates/canvas.php:71
 #: ronneby/inc/vc_custom/dfd_vc_background/admin_templates/image.php:65
-msgid ""
-"Options to control repeatation of the background image. Learn on <a href="
-"\"http://www.w3schools.com/cssref/playit.asp?filename=playcss_background-"
-"repeat\" target=\"_blank\">W3School</a>"
+msgid "Options to control repeatation of the background image. Learn on <a href=\"http://www.w3schools.com/cssref/playit.asp?filename=playcss_background-repeat\" target=\"_blank\">W3School</a>"
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_background/admin_templates/canvas.php:86
 #: ronneby/inc/vc_custom/dfd_vc_background/admin_templates/image.php:80
-msgid ""
-"Options to control size of the background image. Learn on <a href=\"http://"
-"www.w3schools.com/cssref/playit.asp?filename=playcss_background-"
-"size&preval=50%25\" target=\"_blank\">W3School</a>"
+msgid "Options to control size of the background image. Learn on <a href=\"http://www.w3schools.com/cssref/playit.asp?filename=playcss_background-size&preval=50%25\" target=\"_blank\">W3School</a>"
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_background/admin_templates/gradient.php:15
@@ -17439,10 +17224,7 @@ msgid "Self hosted video"
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_background/admin_templates/video.php:34
-msgid ""
-"IE, Chrome & Safari <a href=\"http://www.w3schools.com/html/html5_video.asp"
-"\" target=\"_blank\">support</a> MP4 format, while Firefox & Opera prefer "
-"WebM / Ogg formats. You can upload the video through <a href=\""
+msgid "IE, Chrome & Safari <a href=\"http://www.w3schools.com/html/html5_video.asp\" target=\"_blank\">support</a> MP4 format, while Firefox & Opera prefer WebM / Ogg formats. You can upload the video through <a href=\""
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_background/admin_templates/video.php:42
@@ -17462,9 +17244,7 @@ msgid "Enter Vimeo ID. Example - 67628182"
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_background/admin_templates/video.php:80
-msgid ""
-"Placeholder image is displayed in case background videos are restricted (Ex "
-"- on mobiles)."
+msgid "Placeholder image is displayed in case background videos are restricted (Ex - on mobiles)."
 msgstr ""
 
 #: ronneby/inc/vc_custom/dfd_vc_background/dfd_vc_bg.php:122
@@ -17741,9 +17521,7 @@ msgid "Widget: Contacts block"
 msgstr ""
 
 #: ronneby/inc/widgets/widget-contacts.php:9
-msgid ""
-"Displays the author&apos;s contact information&#44; such as address&#44; "
-"phone etc&#46;"
+msgid "Displays the author&apos;s contact information&#44; such as address&#44; phone etc&#46;"
 msgstr ""
 
 #: ronneby/inc/widgets/widget-contacts.php:77
@@ -18353,9 +18131,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/core/enqueue.php:437
 #: ronneby/redux_framework/ReduxCore/inc/extensions/customizer/extension_customizer.php:568
-msgid ""
-"Your current options will be replaced with the values of this preset. Would "
-"you like to proceed?"
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/core/enqueue.php:444
@@ -18367,8 +18143,7 @@ msgid "There was an error saving. Here is the result of your action:"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/core/enqueue.php:456
-msgid ""
-"There was a problem with your action. Please try again or reload the page."
+msgid "There was a problem with your action. Please try again or reload the page."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/core/panel.php:65
@@ -18404,10 +18179,7 @@ msgid "warning(s) were found!"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/core/panel.php:340
-msgid ""
-"<strong>Your panel has bundled outdated copies of Redux Framework template "
-"files</strong> &#8211; if you encounter functionality issues this could be "
-"the reason. Ensure you update or remove them."
+msgid "<strong>Your panel has bundled outdated copies of Redux Framework template files</strong> &#8211; if you encounter functionality issues this could be the reason. Ensure you update or remove them."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:109
@@ -18417,10 +18189,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:110
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:3448
-msgid ""
-"<p class=\"description\">This is a section created by adding a filter to the "
-"sections array. Can be used by child themes to add/remove sections from the "
-"options.</p>"
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove sections from the options.</p>"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:190
@@ -18484,8 +18253,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:299
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:363
-msgid ""
-"Place your custom javascript code if you need to customize anything using js"
+msgid "Place your custom javascript code if you need to customize anything using js"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:305
@@ -18620,27 +18388,19 @@ msgstr ""
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:516
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:525
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:397
-msgid ""
-"Select a 16px X 16px image from the file location on your computer and "
-"upload it as a favicon of your site"
+msgid "Select a 16px X 16px image from the file location on your computer and upload it as a favicon of your site"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:534
-msgid ""
-"Select a 76px X 76px image from the file location on your computer and "
-"upload it as a favicon of your site"
+msgid "Select a 76px X 76px image from the file location on your computer and upload it as a favicon of your site"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:543
-msgid ""
-"Select a 120px X 120px image from the file location on your computer and "
-"upload it as a favicon of your site"
+msgid "Select a 120px X 120px image from the file location on your computer and upload it as a favicon of your site"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:552
-msgid ""
-"Select a 152px X 152px image from the file location on your computer and "
-"upload it as a favicon of your site"
+msgid "Select a 152px X 152px image from the file location on your computer and upload it as a favicon of your site"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:560
@@ -18651,9 +18411,7 @@ msgstr ""
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:570
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:406
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:415
-msgid ""
-"Select an image from the file location on your computer and upload it as a "
-"header logotype"
+msgid "Select an image from the file location on your computer and upload it as a header logotype"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:569
@@ -18670,9 +18428,7 @@ msgstr ""
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:424
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:433
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:442
-msgid ""
-"Select an image from the file location on your computer and upload it as a "
-"header logotype. If this logo wasn't uploaded will be displayed first logo."
+msgid "Select an image from the file location on your computer and upload it as a header logotype. If this logo wasn't uploaded will be displayed first logo."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:587
@@ -18706,9 +18462,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:624
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:469
-msgid ""
-"Select an image from the file location on your computer and upload it as a "
-"logotype for fixed header"
+msgid "Select an image from the file location on your computer and upload it as a logotype for fixed header"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:632
@@ -18830,9 +18584,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:764
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:583
-msgid ""
-"WPML plugin must be installed. It is not packed with theme. You can find it "
-"here: http://wpml.org/"
+msgid "WPML plugin must be installed. It is not packed with theme. You can find it here: http://wpml.org/"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:771
@@ -18842,8 +18594,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:772
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:591
-msgid ""
-"You can type shortcode of language select tht your translating plugin provide"
+msgid "You can type shortcode of language select tht your translating plugin provide"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:778
@@ -19377,8 +19128,7 @@ msgid "Menu dropdown background opacity"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:2367
-msgid ""
-"Menu dropdown hover background color (available for header styles 1 - 4)"
+msgid "Menu dropdown hover background color (available for header styles 1 - 4)"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:2375
@@ -19501,8 +19251,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:2702
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:1832
-msgid ""
-"Please set to Yes if the dark color was chosen as a side background color"
+msgid "Please set to Yes if the dark color was chosen as a side background color"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:2707
@@ -19592,8 +19341,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:2810
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:1938
-msgid ""
-"Please set to Yes if the dark color was chosen as a footer background color"
+msgid "Please set to Yes if the dark color was chosen as a footer background color"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:2818
@@ -19641,9 +19389,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:2848
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:1976
-msgid ""
-"Please set to Yes if the dark color was chosen as a subfooter background "
-"color"
+msgid "Please set to Yes if the dark color was chosen as a subfooter background color"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:2856
@@ -19850,9 +19596,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:3389
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:2361
-msgid ""
-"With this option you may activate or deactivate social share buttons. and "
-"date on inner post page"
+msgid "With this option you may activate or deactivate social share buttons. and date on inner post page"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:3396
@@ -19883,9 +19627,7 @@ msgid "Block shortcode"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:3439
-msgid ""
-"Hover effect that will be applied to \"MORE INFO\" button on single post and "
-"blog post page templates."
+msgid "Hover effect that will be applied to \"MORE INFO\" button on single post and blog post page templates."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:3449
@@ -19924,9 +19666,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:3484
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:2435
-msgid ""
-"It is information about the post (time and date of creation, author, "
-"comments on the post)."
+msgid "It is information about the post (time and date of creation, author, comments on the post)."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:3491
@@ -20927,19 +20667,11 @@ msgid "Font-face list:"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:7621
-msgid ""
-"Upload .zip archive with font-face files.<br>(<a target=\"_blank\" href="
-"\"http://www.fontsquirrel.com/tools/webfont-generator\">Create you font-face "
-"package</a>)"
+msgid "Upload .zip archive with font-face files.<br>(<a target=\"_blank\" href=\"http://www.fontsquirrel.com/tools/webfont-generator\">Create you font-face package</a>)"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:7622
-msgid ""
-"<span style=\"color:#F09191\">Note:</span> You have to download the font-"
-"face.zip archive. <br>Pay your attention, that the archive has to contain "
-"the font-face files itself, and not the subfolders<br> (E.g.: font-face.zip/"
-"your-font-face.ttf, font-face.zip/your-font-face.eot, font-face.zip/your-"
-"font-face.woff etc. ).<br> They'll be extracted and assigned automatically."
+msgid "<span style=\"color:#F09191\">Note:</span> You have to download the font-face.zip archive. <br>Pay your attention, that the archive has to contain the font-face files itself, and not the subfolders<br> (E.g.: font-face.zip/your-font-face.ttf, font-face.zip/your-font-face.eot, font-face.zip/your-font-face.woff etc. ).<br> They'll be extracted and assigned automatically."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:7624
@@ -21016,9 +20748,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:7849
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:246
-msgid ""
-"<p>This text is displayed above the options panel. It isn't required, but "
-"more info is always better! The intro_text field accepts all HTML.</p>"
+msgid "<p>This text is displayed above the options panel. It isn't required, but more info is always better! The intro_text field accepts all HTML.</p>"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:7853
@@ -21027,16 +20757,11 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:244
 #, php-format
-msgid ""
-"<p>Did you know that Redux sets a global variable for you? To access any of "
-"your saved options from within your code you can use your global variable: "
-"<strong>$%1$s</strong></p>"
+msgid "<p>Did you know that Redux sets a global variable for you? To access any of your saved options from within your code you can use your global variable: <strong>$%1$s</strong></p>"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:250
-msgid ""
-"<p>This text is displayed below the options panel. It isn't required, but "
-"more info is always better! The footer_text field accepts all HTML.</p>"
+msgid "<p>This text is displayed below the options panel. It isn't required, but more info is always better! The footer_text field accepts all HTML.</p>"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/extensions/sample-config.php:303
@@ -21125,10 +20850,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/framework.php:1763
 #, php-format
-msgid ""
-"Hints are tooltips that popup when %d the hint icon, offering addition "
-"information about the field in which they appear.  They can be %d d by using "
-"the link below."
+msgid "Hints are tooltips that popup when %d the hint icon, offering addition information about the field in which they appear.  They can be %d d by using the link below."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/framework.php:1768
@@ -21148,8 +20870,7 @@ msgid "Unable to modify required files. Please ensure that"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/class.redux_filesystem.php:25
-msgid ""
-"has the proper read/write permissions or enter your FTP information below."
+msgid "has the proper read/write permissions or enter your FTP information below."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/class.redux_functions.php:237
@@ -21158,23 +20879,16 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/class.redux_helpers.php:593
 #, php-format
-msgid ""
-"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
-"date. The core version is %s"
+msgid "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. The core version is %s"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/class.redux_themecheck.php:61
 #, php-format
-msgid ""
-"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
-"Check Documentation%s to understand some warnings you will see because of "
-"Redux."
+msgid "The theme you are testing has %s embedded. We invite you to read the %sTheme-Check Documentation%s to understand some warnings you will see because of Redux."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/class.redux_themecheck.php:109
-msgid ""
-"The following directories & files are still located in your <strong>Redux</"
-"strong>  directory. They may cause errors in Theme-Check."
+msgid "The following directories & files are still located in your <strong>Redux</strong>  directory. They may cause errors in Theme-Check."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/debug.php:41
@@ -21254,9 +20968,7 @@ msgid "Are you sure?  Resetting will lose all custom values."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/extensions/customizer/extension_customizer.php:603
-msgid ""
-"Your current options will be replaced with the values of this preset.  Would "
-"you like to proceed?"
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/extensions/import_export/extension_import_export.php:120
@@ -21276,15 +20988,11 @@ msgid "Import from URL"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:107
-msgid ""
-"Input your backup file below and hit Import to restore your sites options "
-"from a backup."
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:112
-msgid ""
-"Input the URL to another sites options set and hit Import to load the "
-"options from that site."
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
@@ -21292,9 +21000,7 @@ msgid "Import"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
-msgid ""
-"WARNING! This will overwrite all existing option values, please proceed with "
-"caution!"
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:119
@@ -21302,10 +21008,7 @@ msgid "Export Options"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:121
-msgid ""
-"Here you can copy/download your current option settings. Keep this safe as "
-"you can use it as a backup should anything go wrong, or you can use it to "
-"restore your settings on this site (or any other site)."
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:126
@@ -21461,10 +21164,7 @@ msgid "Help improve Our Panel"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/tracking.php:130
-msgid ""
-"Please helps us improve our panel by allowing us to gather anonymous usage "
-"stats so we know which configurations, plugins and themes to test to ensure "
-"compatibility."
+msgid "Please helps us improve our panel by allowing us to gather anonymous usage stats so we know which configurations, plugins and themes to test to ensure compatibility."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/tracking.php:135
@@ -21481,9 +21181,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/tracking.php:152
 #, php-format
-msgid ""
-"This panel demonstrates the many features of Redux.  Before digging in, we "
-"suggest you get up to speed by reviewing %1$s."
+msgid "This panel demonstrates the many features of Redux.  Before digging in, we suggest you get up to speed by reviewing %1$s."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/tracking.php:152
@@ -21496,11 +21194,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/tracking.php:153
 #, php-format
-msgid ""
-"Want to get a head start? Use the %1$s. It will create a customized "
-"boilerplate theme or a standalone admin folder complete with all things "
-"Redux (with the help of Underscores and TGM). Save yourself a headache and "
-"try it today."
+msgid "Want to get a head start? Use the %1$s. It will create a customized boilerplate theme or a standalone admin folder complete with all things Redux (with the help of Underscores and TGM). Save yourself a headache and try it today."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/tracking.php:154
@@ -21510,9 +21204,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/tracking.php:154
 #, php-format
-msgid ""
-"Did you know we have extensions, which greatly enhance the features of "
-"Redux?  Visit our %1$s to learn more!"
+msgid "Did you know we have extensions, which greatly enhance the features of Redux?  Visit our %1$s to learn more!"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/tracking.php:154
@@ -21525,9 +21217,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/tracking.php:155
 #, php-format
-msgid ""
-"If so, please %1$s and consider making a %2$s to keep development of Redux "
-"moving forward."
+msgid "If so, please %1$s and consider making a %2$s to keep development of Redux moving forward."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/tracking.php:155
@@ -21543,9 +21233,7 @@ msgid "Newsletter"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/tracking.php:156
-msgid ""
-"If you'd like to keep up to with all things Redux, please subscribe to our "
-"newsletter"
+msgid "If you'd like to keep up to with all things Redux, please subscribe to our newsletter"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/tracking.php:157
@@ -21563,8 +21251,7 @@ msgid "This field must be a valid color value."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
-msgid ""
-"You must provide a comma separated list of numerical values for this option."
+msgid "You must provide a comma separated list of numerical values for this option."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/validation/css/validation_css.php:38
@@ -21581,14 +21268,11 @@ msgid "You must provide a valid email for this option."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
-msgid ""
-"You must not enter any HTML in this field, all HTML tags have been removed."
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
-msgid ""
-"You must not enter any special characters in this field, all special "
-"characters have been removed."
+msgid "You must not enter any special characters in this field, all special characters have been removed."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
@@ -21597,9 +21281,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
 #, php-format
-msgid ""
-"That URL slug is in use, please choose another. <code>%s</code> is open for "
-"use."
+msgid "That URL slug is in use, please choose another. <code>%s</code> is open for use."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/validation/url/validation_url.php:16
@@ -21613,9 +21295,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/about.php:5
 #, php-format
-msgid ""
-"Thank you for updating to the latest version! Redux Framework %s is a huge "
-"step forward in Redux Development. Look at all that's new."
+msgid "Thank you for updating to the latest version! Redux Framework %s is a huge step forward in Redux Development. Look at all that's new."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/about.php:15
@@ -21623,9 +21303,7 @@ msgid "What is Redux Framework?"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/about.php:17
-msgid ""
-"Redux Framework is the core of many products on the web. It is an option "
-"framework which developers use to\n"
+msgid "Redux Framework is the core of many products on the web. It is an option framework which developers use to\n"
 "            enhance their products."
 msgstr ""
 
@@ -21643,10 +21321,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/changelog.php:5
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/status_report.php:28
-msgid ""
-"Our core mantra at Redux is backwards compatibility. With hundreds of "
-"thousands of instances worldwide, you can be assured that we will take care "
-"of you and your clients."
+msgid "Our core mantra at Redux is backwards compatibility. With hundreds of thousands of instances worldwide, you can be assured that we will take care of you and your clients."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/credits.php:2
@@ -21654,16 +21329,11 @@ msgid "Redux Framework - A Community Effort"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/credits.php:5
-msgid ""
-"We recognize we are nothing without our community. We would like to thank "
-"all of those who help Redux to be what it is. Thank you for your involvement."
+msgid "We recognize we are nothing without our community. We would like to thank all of those who help Redux to be what it is. Thank you for your involvement."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/credits.php:14
-msgid ""
-"Redux is created by a community of developers world wide. Want to have your "
-"name listed too? <a href=\"https://github.com/reduxframework/redux-framework/"
-"blob/master/CONTRIBUTING.md\" target=\"_blank\">Contribute to Redux</a>."
+msgid "Redux is created by a community of developers world wide. Want to have your name listed too? <a href=\"https://github.com/reduxframework/redux-framework/blob/master/CONTRIBUTING.md\" target=\"_blank\">Contribute to Redux</a>."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/extensions.php:76
@@ -21671,15 +21341,11 @@ msgid "Redux Framework - Extensions"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/extensions.php:79
-msgid ""
-"Supercharge your Redux experience. Our extensions provide you with features "
-"that will take your products to the next level."
+msgid "Supercharge your Redux experience. Our extensions provide you with features that will take your products to the next level."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/extensions.php:88
-msgid ""
-"While some are built specificially for developers, extensions such as Custom "
-"Fonts are sure to make any user happy."
+msgid "While some are built specificially for developers, extensions such as Custom Fonts are sure to make any user happy."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/status_report.php:25
@@ -21687,9 +21353,7 @@ msgid "Redux Framework - System Status"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/status_report.php:38
-msgid ""
-"Please copy and paste this information in your ticket when contacting "
-"support:"
+msgid "Please copy and paste this information in your ticket when contacting support:"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/status_report.php:41
@@ -21767,9 +21431,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/status_report.php:150
 #, php-format
-msgid ""
-"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
-"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgid "%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" target=\"_blank\">Increasing memory allocated to PHP</a>"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/status_report.php:157
@@ -21854,9 +21516,7 @@ msgid "Default timezone is %s - it should be UTC"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/status_report.php:310
-msgid ""
-"Your server does not have fsockopen or cURL enabled - cURL is used to "
-"communicate with other servers. Please contact your hosting provider."
+msgid "Your server does not have fsockopen or cURL enabled - cURL is used to communicate with other servers. Please contact your hosting provider."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/status_report.php:349
@@ -21864,9 +21524,7 @@ msgid "Remote Post"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/status_report.php:355
-msgid ""
-"wp_remote_post() failed. Many advanced features may not function. Contact "
-"your hosting provider."
+msgid "wp_remote_post() failed. Many advanced features may not function. Contact your hosting provider."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/status_report.php:358
@@ -21880,9 +21538,7 @@ msgid "Remote Get"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/status_report.php:371
-msgid ""
-"wp_remote_get() failed. This is needed to get information from remote "
-"servers. Contact your hosting provider."
+msgid "wp_remote_get() failed. This is needed to get information from remote servers. Contact your hosting provider."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/status_report.php:405
@@ -21924,10 +21580,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/status_report.php:606
 #, php-format
-msgid ""
-"If you're modifying Redux Framework or a parent theme you didn't build "
-"personally, we recommend using a child theme. See: <a href=\"%s\" target="
-"\"_blank\">How to create a child theme</a>"
+msgid "If you're modifying Redux Framework or a parent theme you didn't build personally, we recommend using a child theme. See: <a href=\"%s\" target=\"_blank\">How to create a child theme</a>"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/status_report.php:614
@@ -21947,9 +21600,7 @@ msgid "Redux Framework - Support"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/support.php:5
-msgid ""
-"We are an open source project used by developers to make powerful control "
-"panels."
+msgid "We are an open source project used by developers to make powerful control panels."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/support.php:20
@@ -21975,16 +21626,11 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/support.php:33
 #, php-format
-msgid ""
-"This will provide to your developer all the information they may need to "
-"remedy your issue. This action WILL send information securely to a remote "
-"server. To see the type of information sent, please look at the  <a href=\"%s"
-"\">Status tab</a>."
+msgid "This will provide to your developer all the information they may need to remedy your issue. This action WILL send information securely to a remote server. To see the type of information sent, please look at the  <a href=\"%s\">Status tab</a>."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/support.php:37
-msgid ""
-"Generate\n"
+msgid "Generate\n"
 "                        a Support URL"
 msgstr ""
 
@@ -22013,32 +21659,20 @@ msgid "I am a developer, building a product using Redux."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/support.php:68
-msgid ""
-"Please proceed to the Redux Framework issue tracker and supply us with your "
-"support URL below. Please also provide any information that will help us to "
-"reproduce your issue."
+msgid "Please proceed to the Redux Framework issue tracker and supply us with your support URL below. Please also provide any information that will help us to reproduce your issue."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/support.php:74
-msgid ""
-"Listed below are the Wordpress plugins and/or theme installed on your site "
-"that utilize Redux Framework. We do not directly support products created "
-"with our framework.  It is the responsibility of the plugin or theme "
-"developer to support their work. You will need to contact the author(s) of "
-"the products listed below with your support questions."
+msgid "Listed below are the Wordpress plugins and/or theme installed on your site that utilize Redux Framework. We do not directly support products created with our framework.  It is the responsibility of the plugin or theme developer to support their work. You will need to contact the author(s) of the products listed below with your support questions."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/support.php:77
-msgid ""
-"Please be sure to include for your developer - via cut and paste - the "
-"Support URL in the box below."
+msgid "Please be sure to include for your developer - via cut and paste - the Support URL in the box below."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/views/support.php:215
 #, php-format
-msgid ""
-"Should the developer not be responsive, read the <a href=\"%s\" target="
-"\"_blank\">following article</a> before asking for support from us directly."
+msgid "Should the developer not be responsive, read the <a href=\"%s\" target=\"_blank\">following article</a> before asking for support from us directly."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/welcome/welcome.php:174
@@ -22125,9 +21759,7 @@ msgid "Redux has enabled developer mode because"
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/templates/panel/header.tpl.php:37
-msgid ""
-"If you are not a developer, your theme/plugin author shipped with developer "
-"mode enabled. Contact them directly to fix it."
+msgid "If you are not a developer, your theme/plugin author shipped with developer mode enabled. Contact them directly to fix it."
 msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/templates/panel/header_stickybar.tpl.php:22
@@ -22923,9 +22555,7 @@ msgid "Sorry"
 msgstr ""
 
 #: ronneby/templates/post-nothins-found.php:5
-msgid ""
-"Sorry, but nothing matched your search criteria. Please try again with some "
-"different keywords."
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
 msgstr ""
 
 #: ronneby/templates/searchform.php:4
@@ -22960,9 +22590,7 @@ msgstr ""
 
 #: ronneby/woocommerce/cart/cart-shipping.php:49
 #: ronneby/woocommerce_old/cart/cart-shipping.php:49
-msgid ""
-"There are no shipping methods available. Please double check your address, "
-"or contact us if you need any help."
+msgid "There are no shipping methods available. Please double check your address, or contact us if you need any help."
 msgstr ""
 
 #: ronneby/woocommerce/cart/cart-totals.php:19
@@ -22996,9 +22624,7 @@ msgstr ""
 #: ronneby/woocommerce/cart/cart-totals.php:93
 #: ronneby/woocommerce_old/cart/cart-totals.php:93
 #, php-format
-msgid ""
-"Note: Shipping and taxes are estimated%s and will be updated during checkout "
-"based on your billing and shipping information."
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
 msgstr ""
 
 #: ronneby/woocommerce/cart/cart.php:27
@@ -23139,10 +22765,7 @@ msgstr ""
 
 #: ronneby/woocommerce/checkout/form-login.php:30
 #: ronneby/woocommerce_old/checkout/form-login.php:24
-msgid ""
-"If you have shopped with us before, please enter your details in the boxes "
-"below. If you are a new customer please proceed to the Billing &amp; "
-"Shipping section."
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
 msgstr ""
 
 #: ronneby/woocommerce/loop-shop.php:40
@@ -23259,10 +22882,7 @@ msgstr ""
 
 #: ronneby/woocommerce/single-product-reviews.php:51
 #: ronneby/woocommerce_old/single-product-reviews.php:51
-msgid ""
-"There are no reviews yet, would you like to <a href=\"#review_form\" class="
-"\"inline show_review_form\"><i class=\"infinityicon-pencil\"></i>submit "
-"yours</a>?"
+msgid "There are no reviews yet, would you like to <a href=\"#review_form\" class=\"inline show_review_form\"><i class=\"infinityicon-pencil\"></i>submit yours</a>?"
 msgstr ""
 
 #: ronneby/woocommerce/single-product-reviews.php:75
@@ -23408,9 +23028,7 @@ msgid "Return To Shop"
 msgstr ""
 
 #: ronneby/woocommerce_old/checkout/cart-errors.php:18
-msgid ""
-"There are some issues with the items in your cart (shown above). Please go "
-"back to the cart page and resolve these issues before checking out."
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
 msgstr ""
 
 #: ronneby/woocommerce_old/checkout/cart-errors.php:22
@@ -23430,9 +23048,7 @@ msgid "Create an account?"
 msgstr ""
 
 #: ronneby/woocommerce_old/checkout/form-billing.php:49
-msgid ""
-"Create an account by entering the information below. If you are a returning "
-"customer please login at the top of the page."
+msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
 msgstr ""
 
 #: ronneby/woocommerce_old/checkout/form-checkout.php:18
@@ -23456,9 +23072,7 @@ msgid "Additional Information"
 msgstr ""
 
 #: ronneby/woocommerce_old/checkout/thankyou.php:16
-msgid ""
-"Unfortunately your order cannot be processed as the originating bank/"
-"merchant has declined your transaction."
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
 msgstr ""
 
 #: ronneby/woocommerce_old/checkout/thankyou.php:20
@@ -23501,3 +23115,4 @@ msgstr ""
 #: ronneby/woocommerce_old/wishlist-view.php:181
 msgid "Wish"
 msgstr ""
+

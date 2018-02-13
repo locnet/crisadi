@@ -7680,7 +7680,7 @@ msgstr ""
 #: tmp-portfolio-template-2excerpt.php:135
 #: tmp-portfolio-template-3excerpt.php:135
 #: tmp-portfolio-template-4excerpt.php:136
-msgid "More"
+msgid "Mas"
 msgstr ""
 
 #: inc/post-type.php:7 inc/post-type.php:19
