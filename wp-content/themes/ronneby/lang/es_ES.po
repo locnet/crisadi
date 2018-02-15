@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Ronneby\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-13 11:51+0100\n"
-"PO-Revision-Date: 2018-02-13 11:52+0100\n"
+"PO-Revision-Date: 2018-02-14 18:12+0100\n"
 "Last-Translator: \n"
 "Language-Team: DFDevelopment <dynamicframeworks@gmail.com>\n"
 "Language: es\n"
@@ -8225,20 +8225,20 @@ msgstr ""
 
 #: inc/user_form/inputs/checkbox.php:54
 msgid "Check one or more options"
-msgstr ""
+msgstr "Selecciona una o mas opciones."
 
 #: inc/user_form/inputs/date.php:89 inc/user_form/inputs/select.php:83
 #: inc/user_form/inputs/text.php:74 inc/user_form/inputs/textarea.php:66
 msgid "This field is required"
-msgstr ""
+msgstr "Este campo es obligatorio"
 
 #: inc/user_form/inputs/email.php:73
 msgid "Email address seems invalid."
-msgstr ""
+msgstr "El email parece incorecto."
 
 #: inc/user_form/inputs/tel.php:65
 msgid "Telephone number seems invalid.."
-msgstr ""
+msgstr "El telefono parece incorecto."
 
 #: inc/user_form/user_form_manager.php:102
 msgid "Field Editor {"
@@ -31091,7 +31091,7 @@ msgstr ""
 #: inc/vc_custom/dfd_vc_addons/modules/dfd_user_form.php:18
 msgid ""
 "Validation errors occurred. Please confirm the fields and submit it again."
-msgstr ""
+msgstr "Hay errores. Por favor corigelos y intentalo de nuevo."
 
 #: inc/vc_custom/dfd_vc_addons/modules/dfd_user_form.php:19
 msgid "Success"
@@ -31099,7 +31099,7 @@ msgstr ""
 
 #: inc/vc_custom/dfd_vc_addons/modules/dfd_user_form.php:20
 msgid "Sending ..."
-msgstr ""
+msgstr "Enviando...."
 
 #: inc/vc_custom/dfd_vc_addons/modules/dfd_user_form.php:127
 msgid "Dfd Contact Form"
@@ -40631,7 +40631,7 @@ msgstr ""
 #: redux_framework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
 #: redux_framework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
 msgid "This field must be a valid color value."
-msgstr ""
+msgstr "Este no es un color valido."
 
 #: redux_framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
 msgid ""
@@ -40644,7 +40644,7 @@ msgstr ""
 
 #: redux_framework/ReduxCore/inc/validation/date/validation_date.php:16
 msgid "This field must be a valid date."
-msgstr ""
+msgstr "Tienes que ser una fecha valida."
 
 #: redux_framework/ReduxCore/inc/validation/email/validation_email.php:16
 #: redux_framework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
@@ -40664,7 +40664,7 @@ msgstr ""
 
 #: redux_framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
 msgid "This field cannot be empty. Please provide a value."
-msgstr ""
+msgstr "Este campo no puede estar vacio."
 
 #: redux_framework/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
 #, php-format

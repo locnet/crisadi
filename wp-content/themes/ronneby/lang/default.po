@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Ronneby\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-07 09:28+0300\n"
-"PO-Revision-Date: 2018-02-13 11:48+0100\n"
+"PO-Revision-Date: 2018-02-14 18:16+0100\n"
 "Last-Translator: \n"
 "Language-Team: DFDevelopment <dynamicframeworks@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -15849,7 +15849,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_team_box.php:561
 #: ronneby/redux_framework/ReduxCore/extensions/config.php:3216
 msgid "Type your email in a form, e.g.: mailto:youremail@mail.com"
-msgstr ""
+msgstr "Escribe tu correo electronico en un formato corecto"
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_social_accounter_module.php:265
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_social_accounter_module.php:265
@@ -16440,7 +16440,7 @@ msgstr ""
 #: ronneby/templates/content-folio-archive.php:208
 #: ronneby/templates/loop-blog.php:228 ronneby/templates/loop-folio.php:293
 msgid "Read more"
-msgstr ""
+msgstr "Mas"
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/woocomposer/modules/design-single.php:163
 #: ronneby/inc/vc_custom/dfd_vc_addons/dfd_woo_shortcodes/modules/design-single.php:163
@@ -21260,7 +21260,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/validation/date/validation_date.php:16
 msgid "This field must be a valid date."
-msgstr ""
+msgstr "Este campo tiene que ser una fecha valida."
 
 #: ronneby/redux_framework/ReduxCore/inc/validation/email/validation_email.php:16
 #: ronneby/redux_framework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
@@ -21277,7 +21277,7 @@ msgstr ""
 
 #: ronneby/redux_framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
 msgid "This field cannot be empty. Please provide a value."
-msgstr ""
+msgstr "El campo no puede estar vacio."
 
 #: ronneby/redux_framework/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
 #, php-format
