@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Ronneby\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-13 11:51+0100\n"
-"PO-Revision-Date: 2018-02-14 18:12+0100\n"
+"PO-Revision-Date: 2018-02-15 18:59+0100\n"
 "Last-Translator: \n"
 "Language-Team: DFDevelopment <dynamicframeworks@gmail.com>\n"
 "Language: es\n"
@@ -21844,7 +21844,7 @@ msgstr ""
 #: inc/vc_custom/Ultimate_VC_Addons/modules/dfd_team_box.php:561
 #: inc/vc_custom/dfd_vc_addons/old_modules/dfd_team_box.php:561
 msgid "Mail"
-msgstr ""
+msgstr "Email"
 
 #: inc/vc_custom/Ultimate_VC_Addons/modules/dfd_team_box.php:570
 #: inc/vc_custom/dfd_vc_addons/old_modules/dfd_team_box.php:570
@@ -25662,7 +25662,7 @@ msgstr ""
 
 #: inc/vc_custom/dfd_vc_addons/modules/dfd-contact-block-horizontal-module.php:83
 msgid "Our phone"
-msgstr ""
+msgstr "Nuestro telefono"
 
 #: inc/vc_custom/dfd_vc_addons/modules/dfd-contact-block-horizontal-module.php:98
 #: inc/vc_custom/dfd_vc_addons/modules/dfd-contact-block-module.php:70
@@ -25860,7 +25860,7 @@ msgstr ""
 #: inc/vc_custom/dfd_vc_addons/modules/dfd-contact-block-horizontal-module.php:416
 #: inc/vc_custom/dfd_vc_addons/modules/dfd-contact-block-module.php:349
 msgid "address"
-msgstr ""
+msgstr "direccion"
 
 #: inc/vc_custom/dfd_vc_addons/modules/dfd-contact-block-horizontal-module.php:417
 msgid "phones"
@@ -25883,11 +25883,11 @@ msgstr ""
 #: inc/vc_custom/dfd_vc_addons/modules/dfd-contact-block-module.php:55
 #: inc/widgets/widget-vcard-simple.php:26
 msgid "Address"
-msgstr ""
+msgstr "Direccion"
 
 #: inc/vc_custom/dfd_vc_addons/modules/dfd-contact-block-module.php:63
 msgid "Phone"
-msgstr ""
+msgstr "Telefono"
 
 #: inc/vc_custom/dfd_vc_addons/modules/dfd-contact-block-module.php:77
 msgid "Enter the website address which will be shown in website field"
@@ -25999,7 +25999,7 @@ msgstr ""
 
 #: inc/vc_custom/dfd_vc_addons/modules/dfd-contact-block-module.php:350
 msgid "phone"
-msgstr ""
+msgstr "telefono"
 
 #: inc/vc_custom/dfd_vc_addons/modules/dfd-contact-block-module.php:352
 msgid "website"
@@ -32328,7 +32328,7 @@ msgstr ""
 
 #: inc/widgets/widget-vcard-simple.php:159
 msgid "Phone:"
-msgstr ""
+msgstr "Telefono:"
 
 #: inc/widgets/widget-vcard-simple.php:168
 msgid "Email:"
@@ -32336,7 +32336,7 @@ msgstr ""
 
 #: inc/widgets/widget-vcard-simple.php:183
 msgid "Address:"
-msgstr ""
+msgstr "Direccion:"
 
 #: inc/widgets/widget-vcard-simple.php:192
 msgid "Website:"
@@ -32360,7 +32360,7 @@ msgstr ""
 
 #: inc/widgets/widget-vcard.php:74
 msgid "E-Mail"
-msgstr ""
+msgstr "E-mail"
 
 #: inc/widgets/widget-video.php:13
 msgid "Include video with oEmbed"

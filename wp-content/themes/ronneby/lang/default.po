@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Ronneby\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-07 09:28+0300\n"
-"PO-Revision-Date: 2018-02-14 18:16+0100\n"
+"PO-Revision-Date: 2018-02-15 18:52+0100\n"
 "Last-Translator: \n"
 "Language-Team: DFDevelopment <dynamicframeworks@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -11282,7 +11282,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Info_Box.php:54
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Info_Box.php:54
 msgid "Read more"
-msgstr ""
+msgstr "Leer mas"
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/Ultimate_Info_Box.php:366
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/Ultimate_Info_Box.php:366
@@ -14074,7 +14074,7 @@ msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd-contact-block-horizontal-module.php:423
 msgid "address"
-msgstr ""
+msgstr "direccion"
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd-contact-block-horizontal-module.php:424
 msgid "phones"
@@ -16153,7 +16153,7 @@ msgstr ""
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_team_box.php:560
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_team_box.php:560
 msgid "Mail"
-msgstr ""
+msgstr "Email"
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/modules/dfd_team_box.php:569
 #: ronneby/inc/vc_custom/dfd_vc_addons/modules/dfd_team_box.php:569
@@ -16440,7 +16440,7 @@ msgstr ""
 #: ronneby/templates/content-folio-archive.php:208
 #: ronneby/templates/loop-blog.php:228 ronneby/templates/loop-folio.php:293
 msgid "Read more"
-msgstr "Mas"
+msgstr ""
 
 #: ronneby/inc/vc_custom/Ultimate_VC_Addons/woocomposer/modules/design-single.php:163
 #: ronneby/inc/vc_custom/dfd_vc_addons/dfd_woo_shortcodes/modules/design-single.php:163
@@ -17964,7 +17964,7 @@ msgstr ""
 
 #: ronneby/inc/widgets/widget-vcard-simple.php:25
 msgid "Address"
-msgstr ""
+msgstr "Direccion"
 
 #: ronneby/inc/widgets/widget-vcard-simple.php:29
 msgid "Phones"
@@ -17990,7 +17990,7 @@ msgstr ""
 
 #: ronneby/inc/widgets/widget-vcard-simple.php:158
 msgid "Phone:"
-msgstr ""
+msgstr "Telefono:"
 
 #: ronneby/inc/widgets/widget-vcard-simple.php:167
 msgid "Email:"
@@ -17998,7 +17998,7 @@ msgstr ""
 
 #: ronneby/inc/widgets/widget-vcard-simple.php:182
 msgid "Address:"
-msgstr ""
+msgstr "Direccion:"
 
 #: ronneby/inc/widgets/widget-vcard-simple.php:191
 msgid "Website:"
