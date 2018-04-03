@@ -118,7 +118,7 @@ function wpforms_admin_scripts() {
 	// Main admin script.
 	wp_enqueue_script(
 		'wpforms-admin',
-		WPFORMS_PLUGIN_URL . "assets/js{$dir}/admin{$suffix}.js",
+		WPFORMS_PLUGIN_URL . "assets/js/admin{$suffix}.js",
 		array( 'jquery' ),
 		WPFORMS_VERSION,
 		false
@@ -158,6 +158,7 @@ function wpforms_admin_scripts() {
 		'provider_delete_confirm'         => esc_html__( 'Are you sure you want to disconnect this account?', 'wpforms' ),
 		'provider_auth_error'             => esc_html__( 'Could not authenticate with the provider.', 'wpforms' ),
 		'save_refresh'                    => esc_html__( 'Save and Refresh', 'wpforms' ),
+		'testing'                         => esc_html__( 'Testing', 'wpforms' ),
 		'upgrade_completed'               => esc_html__( 'Upgrade was successfully completed!', 'wpforms' ),
 		'upload_image_title'              => esc_html__( 'Upload or Choose Your Image', 'wpforms' ),
 		'upload_image_button'             => esc_html__( 'Use Image', 'wpforms' ),
@@ -369,14 +370,25 @@ function wpforms_check_php_version() {
 			'<strong>WPForms</strong>',
 			'https://wpforms.com/docs/supported-php-version/'
 		) .
+		'<br><br>' .
+		wp_kses(
+			__( '<em><strong>Please Note:</strong> After April 2018, WPForms will be deactivated if not further action is taken.</em>', 'wpforms' ),
+			array(
+				'strong' => array(),
+				'em'     => array(),
+			)
+		) .
 		'</p>'
 	);
 }
-
 add_action( 'admin_init', 'wpforms_check_php_version' );
 
 /**
  * Get an upgrade modal text.
+ *
+ * @since 1.4.4
+ *
+ * @return string
  */
 function wpforms_get_upgrade_modal_text() {
 
@@ -420,7 +432,7 @@ function wpforms_get_upgrade_modal_text() {
 					),
 				)
 			),
-			'https://wpforms.com/docs/upgrade-wpforms-lite-paid-license/'
+			'https://wpforms.com/docs/upgrade-wpforms-lite-paid-license/?utm_source=WordPress&amp;utm_medium=link&amp;utm_campaign=liteplugin'
 		) .
 		'</p>';
 }

@@ -7680,7 +7680,7 @@ msgstr ""
 #: tmp-portfolio-template-2excerpt.php:135
 #: tmp-portfolio-template-3excerpt.php:135
 #: tmp-portfolio-template-4excerpt.php:136
-msgid "More"
+msgid "Mas"
 msgstr ""
 
 #: inc/post-type.php:7 inc/post-type.php:19
@@ -8104,7 +8104,7 @@ msgstr ""
 #: inc/user_form/inputs/date.php:89 inc/user_form/inputs/select.php:83
 #: inc/user_form/inputs/text.php:74 inc/user_form/inputs/textarea.php:66
 msgid "This field is required"
-msgstr ""
+msgstr "Este campo es obligatorio"
 
 #: inc/user_form/inputs/email.php:73
 msgid "Email address seems invalid."

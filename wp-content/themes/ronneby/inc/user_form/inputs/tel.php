@@ -58,7 +58,7 @@ class Dfd_Contact_Form_Tel extends Dfd_Contact_Form_Input {
         $param = $params["param"];
         if (isset($param["required-1"])) {
             if ($params["value"] == "") {
-                $this->addError($name["name"], "This field is required");
+                $this->addError($name["name"], __("This field is required","dfd"));
             }
         }
         if ($params["value"] != "" && !preg_match('/^[+]?[0-9() -]*$/', $params["value"])) {
