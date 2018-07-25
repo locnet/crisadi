@@ -79,7 +79,10 @@ $table_prefix  = 'wp_qtjfbj_';
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
-define('WP_DEBUG', true);
+ini_set('display_errors','Off');
+ini_set('error_reporting',E_ALL);
+define('WP_DEBUG', false);
+define('WP_DEBUG_DISPLAY',false);
 define('WP_DEBUG_LOG',true);
 /* That's all, stop editing! Happy blogging. */
 
